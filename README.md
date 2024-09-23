@@ -72,6 +72,12 @@
       </a>
       <br>Python
     </td>
+    <td align="center" width="144">
+      <a >
+        <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/flutter/flutter-original.svg" width="48" height="48" alt="python logo" />
+      </a>
+      <br>Flutter
+    </td>
   </tr>
 </table>
 
